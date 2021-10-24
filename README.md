@@ -5,6 +5,7 @@ Linux ,Technology , Computer Science
 ****
 - 🌱 I’m currently learning ...
 Linux ,  Java ,Django , Mathematics  etc .
+---------------
 High School Science student 
 ----
 OS -
