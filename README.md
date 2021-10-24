@@ -1,11 +1,14 @@
 - 👋 Hi, I’m Aman
 16 Yr old 
+
 - 👀 I’m interested in ...
 Linux ,Technology , Computer Science
+
 ****
 - 🌱 I’m currently learning ...
 Linux ,  Java ,Django , Mathematics  etc .
 ---------------
+
 High School Science student 
 ----
 OS -
