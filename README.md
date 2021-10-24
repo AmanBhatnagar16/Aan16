@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Aman
-
+16 Yr old 
 - 👀 I’m interested in ...
 Linux ,Technology , Computer Science
 - 🌱 I’m currently learning ...
-Linux , C /C++ , Java ,Django etc .
+Linux ,  Java ,Django , Mathematics etc .
+High School Science student 
 
 <!---
 Aan16/Aan16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
